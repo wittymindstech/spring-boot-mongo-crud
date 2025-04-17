@@ -78,6 +78,7 @@ spring.data.mongodb.database=employeedb
 
 ### ▶️ 3. Run the app
 ```bash
+docker run -d -p 27017:27017 --name mongo-db mongo
 mvn spring-boot:run
 ```
 
