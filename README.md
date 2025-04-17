@@ -1,2 +1,2 @@
-# spring-boot-mongo-crud
-Spring Boot Application with MongoDB 
+# Employee CRUD App
+This is a Spring Boot application with MongoDB and Kubernetes deployment.
